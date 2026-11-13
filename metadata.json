@@ -1,0 +1,6 @@
+{
+  "name": "Camera Scan: All Doc, PDF Tools",
+  "description": "Camera Scan. Complete all-in-one document scanner, PDF creation, editing, conversion, Office viewer, and file manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
